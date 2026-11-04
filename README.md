@@ -8,6 +8,8 @@ Choose note values, accidentals and articulations from a popup beside your work.
 
 ## Free beta
 
+**[Download NoteReach 0.4.0 beta 1](https://github.com/mathewharwich/notereach-releases/releases/tag/v0.4.0-beta.1)** — build 10, Developer ID-signed and notarized by Apple. The executable is universal for Intel and Apple Silicon; native Apple Silicon runtime acceptance is still pending.
+
 This repository distributes official NoteReach beta binaries and public documentation. The application source code is private and is not included here. Use of the official beta is free for personal or professional work under the accompanying NoteReach Beta License. Future releases may be paid products.
 
 The beta requires macOS 14 or later and Dorico 6. It uses Dorico's local Remote Control connection and macOS Accessibility permission. No account is required. Work on a copy of a score while trying the beta.
